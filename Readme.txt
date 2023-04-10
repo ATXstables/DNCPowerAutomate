@@ -66,7 +66,7 @@ CommentTextBox -Requirement is less than 100 characters
 
 Notes: 
 ------
-- Set the default browser for Microsoft Edge
+- Set the default browser to Microsoft Edge
 - Where does Power Automate Desktop store flows?
 If you do not have access to Power Automate in an M365 tenant, the flows are stored locally at C:\Users\[YourUsername]\Documents\Power Automate Desktop\My Flows.
 If you do have access with your M365 Tenant, Navigate Edge to https://make.powerapps.com/ -> Flows are stored in Desktop Flows-> Desktop Flows 
